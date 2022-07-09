@@ -1,9 +1,9 @@
 <!DOCTYPE   html>
 <html>
  <head>
-   <title>vaishakhi chavan</tilte>
-  </head>
-  <body>
+ <title>vaishakhi chavan</tilte>
+ </head>
+ <body>
     <h1>first heading</h1>
     <h2>second heading</h2>
     <h3>third heading</h3>
